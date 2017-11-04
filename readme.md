@@ -1,4 +1,4 @@
-## from SCS-3250 TTC Project
+## SCS-3250 TTC Project
 
 Clean Up.ipynb contains the script that will generate ttc_delays_cleaned.csv from the `csv_originals/delays.csv` and other csv files in the root folder.
 
