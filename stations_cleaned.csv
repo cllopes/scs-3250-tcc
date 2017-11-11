@@ -1,0 +1,75 @@
+Station,Grade,2015 ridership,Ridership
+COLLEGE,Underground,"47,79",4779
+DAVISVILLE,Surface,"25,33",2533
+DUNDAS,Underground,"81,33",8133
+DUPONT,Underground,"16,14",1614
+EGLINTON,Underground,"72,75",7275
+EGLINTON WEST,Underground/Surface,"16,83",1683
+FINCH,Underground,"100,82",10082
+GLENCAIRN,Surface,"5,72",572
+KING,Underground,"55,81",5581
+LAWRENCE,Underground,"24,56",2456
+LAWRENCE WEST,Surface,"19,95",1995
+MUSEUM,Underground,"8,1",81
+NORTH YORK CENTRE,Underground,"24,22",2422
+OSGOODE,Underground,"22,49",2249
+QUEEN,Underground,"48,01",4801
+QUEEN'S PARK,Underground,"48,07",4807
+ROSEDALE,Surface,"5,98",598
+DOWNSVIEW,Underground,"37,67",3767
+ST. ANDREW,Underground,"56,12",5612
+ST. CLAIR,Underground,"36,32",3632
+ST. CLAIR WEST,Underground,"28,11",2811
+ST. PATRICK,Underground,"30,25",3025
+SUMMERHILL,Underground,"5,78",578
+UNION,Underground,"118,45",11845
+WELLESLEY,Underground,"23,14",2314
+WILSON,Surface,"22,81",2281
+YORK MILLS,Underground,"28,15",2815
+YORKDALE,Surface,"19,15",1915
+BLOOR-YONGE - BD,Underground,"183,24",18324
+BLOOR-YONGE - YU,Underground,"216,19",21619
+SPADINA - YU,Underground,"13,79",1379
+SPADINA - BD,Underground,"33,21",3321
+ST. GEORGE - YU,Underground,"136,2",1362
+ST. GEORGE - BD,Underground,"128,98",12898
+SHEPPARD - SHP,Underground,"45,75",4575
+SHEPPARD - YU,Underground,"76,82",7682
+BATHURST,Underground,"36,46",3646
+BAY,Underground,"30,86",3086
+BROADVIEW,Underground,"33,46",3346
+CASTLE FRANK,Underground,"8,35",835
+CHESTER,Underground,"7,7",77
+CHRISTIE,Underground,"12,02",1202
+COXWELL,Underground,"15,26",1526
+DONLANDS,Underground,"11,5",115
+DUFFERIN,Underground,"29,94",2994
+DUNDAS WEST,Underground,"29,62",2962
+GREENWOOD,Underground,"9,04",904
+HIGH PARK,Underground/Surface,"10,39",1039
+ISLINGTON,Underground,"37,41",3741
+JANE,Underground,"19,82",1982
+KEELE,Elevated,"15,24",1524
+KIPLING,Surface,"52,93",5293
+LANSDOWNE,Underground,"19,25",1925
+MAIN,Underground,"24,13",2413
+OLD MILL,Underground/Elevated,"6,62",662
+OSSINGTON,Underground,"31,61",3161
+PAPE,Underground,"28,71",2871
+ROYAL YORK,Underground,"20,23",2023
+RUNNYMEDE,Underground,"17,04",1704
+SHERBOURNE,Underground,"25,73",2573
+VICTORIA PARK,Surface,"28,61",2861
+WARDEN,Surface,"29,74",2974
+WOODBINE,Underground,"14,38",1438
+KENNEDY - SRT,Underground/Elevated,"35,79",3579
+KENNEDY - BD,Underground/Elevated,"69,79",6979
+ELLESMERE,Surface,"1,56",156
+LAWRENCE EAST,Surface,"8,13",813
+MCCOWAN,Elevated,"4,62",462
+MIDLAND,Elevated,"2,41",241
+SCARBOROUGH CENTRE,Elevated,"24,63",2463
+BAYVIEW,Underground,"8,99",899
+BESSARION,Underground,"3,05",305
+DON MILLS,Underground,"33,76",3376
+LESLIE,Underground,"6,6",66
