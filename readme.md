@@ -14,6 +14,7 @@ The *Date*, *Time*, and *Station* columns were all fairly sane so no cleaning wa
 No real examination has been done on the Min Gap and Min Bound line yet.
 
 Change here
+Changed on the UI
 
 Again
 
